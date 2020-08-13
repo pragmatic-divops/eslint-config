@@ -10,7 +10,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "runkitExampleFilename": "./example.js",
   "repository": "pragmatic-divops/eslint-config",
   "bugs": "https://github.com/pragmatic-divops/eslint-config/issues",
   "homepage": "https://npm.im/@pragmatic-divops/eslint-config",
