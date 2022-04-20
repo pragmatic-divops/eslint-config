@@ -35,6 +35,6 @@
     "remark-toc": "8.0.1"
   },
   "dependencies": {
-    "@form8ion/eslint-config": "2.0.4"
+    "@form8ion/eslint-config": "4.0.0"
   }
 }
