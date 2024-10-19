@@ -25,7 +25,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@pragmatic-divops/commitlint-config": "1.0.61",
+    "@pragmatic-divops/commitlint-config": "1.0.62",
     "@pragmatic-divops/remark-preset": "4.0.5",
     "ban-sensitive-files": "1.10.6",
     "cz-conventional-changelog": "3.3.0",
